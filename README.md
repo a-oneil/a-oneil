@@ -6,7 +6,6 @@
   <a href="https://www.reddit.com/user/austino5308"><img src="https://img.icons8.com/color/32/000000/reddit.png" alt="reddit"/></a>
   <a href="https://app.hackthebox.com/profile/40272"><img src="./images/hackthebox.png" alt="hack the box"/></a>
   <a href="https://tryhackme.com/p/CorruptMalware"><img src="./images/tryhackme.png" alt="tryhackme"/></a>
-  <a href="https://discord.gg/152268478244585472"><img src="https://img.icons8.com/color/32/000000/discord-logo.png" alt="discord"/></a>
   <a href="https://steamcommunity.com/id/aoneil_/"><img src="https://img.icons8.com/color/32/steam-circled.png" alt="steam"/></a>
 </p>
 </center>
